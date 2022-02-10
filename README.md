@@ -1,6 +1,6 @@
 # search-engine
 
-This was a university project for my Object-oriented Programming course.
+This was a university group project for my Object-oriented Programming course. I worked on it with Gabriel Noguero.
 
 The goal was to implement a search engine that returns relevant documents in response to a query.
 There is a boolean version, that returns all documents containing all the words in the query, 
